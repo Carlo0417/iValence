@@ -1,2 +1,2 @@
 # iValence
-Just an initial Website Design
+Just an initial website design.
