@@ -7451,7 +7451,7 @@ ul.progress-info {
     margin: 0 4px;
     transition: all 0.4s ease;
     opacity: 0.4;
-    background: rgba(43, 86, 245, 0.8) !important;
+    background: rgba(0, 0, 0, 0.8) !important;
 }
 .carousel-dots-sharp .owl-dot {
     border-radius: 0;
